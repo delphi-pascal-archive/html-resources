@@ -1,0 +1,6 @@
+/*------------------------------*/
+#define DATA 10
+
+/* HTML resource */
+DLL_VIDE        DATA   "DLL_Vide.dll"
+
